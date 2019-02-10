@@ -1,6 +1,8 @@
 # My Todos
 
-An experiment with RxJS and React Hooks.
+> An experiment with RxJS and React Hooks.
+
+![screenshot](screenshot.png)
 
 ---
 
